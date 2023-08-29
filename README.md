@@ -1,2 +1,2 @@
 # Personal_website
-<h5  style="color:red">this is my personal website </h5>
+<h5  style="color:blue;text-align:center;">this is my personal website </h5>
